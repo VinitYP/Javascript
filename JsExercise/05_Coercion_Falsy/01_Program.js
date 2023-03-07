@@ -26,3 +26,6 @@ if (2===user) {     // (Strict check)
     console.log("Condition pass strict check");
     
 }
+
+
+
