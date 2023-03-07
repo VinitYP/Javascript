@@ -25,3 +25,8 @@ console.log("Addtion of two number is :"+sum);
 //or it may be like this sometime 
 
 console.log("Addtion of two number is :"+Add(10,1));
+
+
+
+
+
